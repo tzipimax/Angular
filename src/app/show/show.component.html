@@ -1,0 +1,5 @@
+<p>show works!</p>
+<button (click) ="setTypeShow(1)">עובדים</button>
+<button (click) ="setTypeShow(2)">תפקידים</button>
+<app-show-roles *ngIf="typeShow == 2"></app-show-roles>
+<app-show-workers *ngIf="typeShow == 1"></app-show-workers>

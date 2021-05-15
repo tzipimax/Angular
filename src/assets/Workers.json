@@ -1,0 +1,11 @@
+[
+    {"id":1,"name":"aaa", "role": 1, "salary":15000},
+    {"id":2, "name":"bbb", "role": 2, "salary":10000},
+    {"id":3, "name":"ccc", "role": 3, "salary":15000},
+    {"id":4, "name":"ddd", "role": 4, "salary":5000},
+    {"id":5, "name":"eee", "role": 2, "salary":7000},
+    {"id":6, "name":"fff", "role": 3, "salary":9000},
+    {"id":7, "name":"ggg", "role": 1, "salary":9000},
+    {"id":7, "name":"ggg", "role": 5, "salary":7500},
+    {"id":7, "name":"ggg", "role": 2, "salary":6000}
+]

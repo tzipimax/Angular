@@ -1,0 +1,7 @@
+[
+    {"id": 1, "description": "admin"},
+    {"id": 2, "description": "Accounts Manager"},
+    {"id": 3, "description": "Tax Advisor"},
+    {"id": 4, "description": "secretary"},
+    {"id": 5, "description": "Calculate salary"}
+]
