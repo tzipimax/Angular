@@ -25,6 +25,7 @@ export class ShowWorkersComponent implements OnInit {
   constructor(private httpService: HttpClient) {
     this.getWorkers()
     .subscribe((workers) => this.workers = workers);
+  
    }
 
   ngOnInit(): void {
